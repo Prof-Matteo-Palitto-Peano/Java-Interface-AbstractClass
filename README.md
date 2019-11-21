@@ -1,7 +1,7 @@
 # Java-Interface-AbstractClass
 Lezione e Laboratorio sulle Interfaccie e le Classi Astratte in Java
 
-## Esercizio 1
+## Esercizio 1: Eroi Contro Mostri
 * Si supponga di avere delle carte da gioco. Ogni carta rappresenta un Personaggio che può essere di tipo o Umano o Mostro. 
 * Un Personaggio di tipo Umano ha una forza fisica iniziale pari a 10 e può combattere, un Personaggio di tipo Mostro, invece, ha una forza fisica iniziale pari a 15 e può azzannare.
 * I Personaggi del gioco sono Eroe, Vampiro e Licantropo.
