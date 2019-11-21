@@ -17,11 +17,11 @@ di tipo Umano.
 * Si dovranno definire tutte le classi e le interfacce necessarie per realizzare il gioco
 * Si dovrà inoltre definire una classe principale (che ha il main) che:
 * Istanzia tre oggetti: uno di tipo Eroe, uno di tipo Licantropo e uno di tipo Vampiro.
-* In una notte di luna piena...
+**In una notte di luna piena...**
 * Fa combattere tre volte l’Eroe
 * Fa azzannare una volta il Vampiro
 * Fa azzannare il Licantropo due volte
-* in una notte di NON luna piena
+**in una notte di NON luna piena**
 * Fa combattere il Licantropo una volta
 * Stampa al termine la forza fisica rimasta a ciascun personaggio 
 
